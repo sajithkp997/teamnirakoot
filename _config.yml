@@ -2,7 +2,7 @@
 title: TeamNirakoot
 email: ""
 description: "Art Journal"
-url: "https://teamnirakoot.github.io"
+url: "https://sajithkp997.github.io"
 baseurl: "/nirakoot"
 facebook_username: ""
 twitter_username: ""
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://teamnirakoot.github.io/nirakoot/gallery/"  
-  - JOURNAL: "https://teamnirakoot.github.io/nirakoot/journal/"
-  - ABOUT: "https://teamnirakoot.github.io/nirakoot/about/"
+  - GALLERY: "https://sajithkp997.github.io/nirakoot/gallery/"  
+  - JOURNAL: "https://sajithkp997.github.io/nirakoot/journal/"
+  - ABOUT: "https://sajithkp997.github.io/nirakoot/about/"
 
 # All translation keys
 translations:
